@@ -1,4 +1,4 @@
-# 2-Where is the worker and master configuration?
+# 01-Where is the worker and master configuration?
 # 2- پیکربندی پردازه هایه worker و master کجاست؟
 ---
 تنظیمات مربوط به **Master Process** و **Worker Process** دقیقاً در **بالاترین سطح فایل کانفیگ اصلی <mark>(`/etc/nginx/nginx.conf`)</mark> ** نوشته می‌شوند که اصطلاحاً به آن **Main Context** یا محیط سراسری می‌گویند (یعنی بیرون از هرگونه بلاک مثل `{ } http` یا `{ } events`).
