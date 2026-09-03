@@ -1,4 +1,4 @@
-# 01-pid-directive
+# 03-pid-directive
 # دایرکتیو pid
 ---
 ## دایرکتیو `pid` در Nginx چیست؟
