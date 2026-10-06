@@ -5,7 +5,7 @@
 
 
 <p align=center>
-	<img src="../00-images/" alt="image" width=800>
+	<img src="../00-images/0-intro-to-nginx.conf.png" alt="image" width=800>
 </p>
 
 ---
