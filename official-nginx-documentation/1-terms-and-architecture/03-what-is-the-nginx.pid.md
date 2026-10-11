@@ -2,7 +2,7 @@
 ---
 - مسیر var/run/nginx.pid مسیره نگهداری pid مربوط به پردازه اصلی 
 <p align=center>
-	<img src="../00-images/runpid.png" alt="image" width=800>
+	<img src="../00-images/runpidpath.png" alt="image" width=800>
 </p>
 -  همانطور که در عکس میبینید 
 - ما اومدیم یه  grep کردیم از خروجی ps -aux و شمار اون pid مربوط به پردازه اصلی رو پیدا کردیم
