@@ -18,5 +18,5 @@
 
 ## 3- یه عکس برایه من درست کن 
 <p align=center>
-	<img src="../00-images/URLURIURN.png" alt="image" width=800>
+	<img src="../00-images/URIURLURN.png" alt="image" width=800>
 </p>
